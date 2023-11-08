@@ -1,4 +1,7 @@
 @extends('layouts.master')
+@section('title')
+	قائمة الفواتير
+@endsection
 @section('css')
 <!-- Internal Data table css -->
 <link href="{{URL::asset('assets/plugins/datatable/css/dataTables.bootstrap4.min.css')}}" rel="stylesheet" />
@@ -22,9 +25,6 @@
 @section('content')
 				<!-- row -->
 				<div class="row">
-						<!--/div-->
-	
-						<!--div-->
 						<div class="col-xl-12">
 							<div class="card mg-b-20">
 								<div class="card-header pb-0">
