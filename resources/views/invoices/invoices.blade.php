@@ -71,9 +71,6 @@
 								</div>
 							</div>
 						</div>
-						<!--/div-->
-	
-						<!--div-->
 				</div>
 			<!-- Container closed -->
 		<!-- main-content closed -->
